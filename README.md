@@ -1,11 +1,11 @@
-Itqan AI - إتقان
-مساعد الذكاء الاصطناعي لمحرك Godot 4.
-طريقة التثبيت:
-فك الضغط وضع المجلد في res://addons/.
-فعل الإضافة من Project Settings -> Plugins.
-أدخل مفتاح Gemini API الخاص بك في الإعدادات.
-المميزات:
-كتابة وتعديل الكود.
-شرح الأكواد بالعربية.
-تخطيط المهام (Kanban).
-إصلاح الأخطاء تلقائياً.
+Itqan AI - Mastery
+Artificial Intelligence Assistant for Godot Engine 4.
+Installation method:
+Unzip and put the folder in res://addons/.
+Activate the plugin from Project Settings -> Plugins.
+Enter your Gemini API key in Settings.
+Features:
+Writing and modifying code.
+Explanation of codes in Arabic.
+Task planning (Kanban).
+Automatically fix errors.
